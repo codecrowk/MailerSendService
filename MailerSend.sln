@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MailerSendApi", "src\MailerSendApi.csproj", "{CC4F9209-B612-4607-A7A3-A4F666519064}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyMailCheck", "test\MyMailCheck.csproj", "{F7D26448-4332-49F6-BD74-0AF391C9B1BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC4F9209-B612-4607-A7A3-A4F666519064}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC4F9209-B612-4607-A7A3-A4F666519064}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC4F9209-B612-4607-A7A3-A4F666519064}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC4F9209-B612-4607-A7A3-A4F666519064}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7D26448-4332-49F6-BD74-0AF391C9B1BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7D26448-4332-49F6-BD74-0AF391C9B1BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7D26448-4332-49F6-BD74-0AF391C9B1BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7D26448-4332-49F6-BD74-0AF391C9B1BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
